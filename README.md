@@ -17,6 +17,7 @@ Se liga nessa lista de tudo que usaremos nesse treinamento:
 - `React Hooks`
 - `TypeScript`
 - `axios`
+- `SASS/SCSS`
 
 ## 🛠️ Abrir e rodar o projeto
 
